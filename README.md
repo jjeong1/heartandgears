@@ -1,4 +1,10 @@
 # heartandgears
+
+Link to video recording of prototype play:
+
+https://youtu.be/moTsEFXqbh4
+
+
 Imported assets: 
 
 Darth_Artisan’s Free Trees, BitGem’s Birch Tree, Daniel Robnik’s Low-Poly-Styled Rocks
